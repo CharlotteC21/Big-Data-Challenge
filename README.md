@@ -1,4 +1,5 @@
 # Big Data Homework - "Alexa, can you handle big data?"
+<img width="639" alt="Screen Shot 2022-03-08 at 10 19 17 PM" src="https://user-images.githubusercontent.com/91695375/157366299-b1cba2fe-f784-4c1c-b9dc-1db3392c32fe.png">
 
 ### Before You Begin
 
